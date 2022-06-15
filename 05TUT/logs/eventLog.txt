@@ -1,0 +1,8 @@
+20220615	16:06:32	95be02f4-be32-4b7f-9588-1a8ad4274c76	/new-page.html	GET
+20220615	16:06:32	6dad7eb4-4fd4-40be-9704-a28fe44cf9f5	/css/style.css	GET
+20220615	16:06:32	b76f4168-7a94-4ad0-803e-926de9ac2487	/img/img1.jpeg	GET
+20220615	16:06:42	ce8ee1c3-bc3d-4a76-8607-264fdfa6ccfb	/new-page.html	GET
+20220615	16:06:42	d166af78-c6e2-42f3-a2dc-5fe18e18e351	TypeError: fsPromises.readFil is not a function
+20220615	16:06:30	c1cb0180-6a03-41cc-a994-cd6130cae01f	/new-page.html	GET
+20220615	16:06:30	7d52b8fc-fd79-4393-a3fb-510df82d97d6	/css/style.css	GET
+20220615	16:06:30	03301a21-7832-4d26-92e5-7dd3e30eeecf	/img/img1.jpeg	GET
