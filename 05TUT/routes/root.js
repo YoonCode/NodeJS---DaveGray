@@ -11,7 +11,7 @@ router.get('/new-page(.html)?', (req, res) => {
 })
 
 router.get('/old-page(.html)?', (req, res) => {
-  res.redirect(301, '/new-page.html') // 302 by default
+  res.redirect(301, '/new-page.html') //302 by default
 })
 
 module.exports = router
