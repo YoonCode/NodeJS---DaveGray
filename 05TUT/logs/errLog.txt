@@ -1,0 +1,4 @@
+20220616	17:06:25	de03d7a1-7e92-4282-8973-cf869f36b65f	Error: ENOENT: no such file or directory, stat '/Users/ericyoon/Development/Nodejs/NodeJs_Dave-Gray/05TUT/routes/views/index.html'
+20220616	17:06:29	9c440bbe-3605-4e9a-ba97-946d1008d8ab	Error: ENOENT: no such file or directory, stat '/Users/ericyoon/Development/Nodejs/NodeJs_Dave-Gray/05TUT/routes/views/index.html'
+20220616	17:06:28	415c5bfc-c584-4826-8a02-7fa8574b8c9f	Error: ENOENT: no such file or directory, stat '/Users/ericyoon/Development/Nodejs/NodeJs_Dave-Gray/05TUT/routes/new-page.html'
+20220616	17:06:41	efba2248-46f9-42c2-bead-a9a6af2ca3f6	Error: ENOENT: no such file or directory, stat '/Users/ericyoon/Development/Nodejs/NodeJs_Dave-Gray/05TUT/routes/new-page.html'
